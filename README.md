@@ -14,7 +14,7 @@
 
 - 🤔 I’m looking for help with **AR development in Unity3d.**
 
-- 💬 Ask me about **Python , AR and C#.**
+- 💬 Ask me about **Python, AR and C#.**
 
 - 📫 How to reach me : **aniketchopade2971@gmail.com**
 
