@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aniket-chopade-3b7b6518b/" target="blank"><img align="center"  src="https://drive.google.com/file/d/1GdcX7E1776OAdIXtZpYDskCw3Yv2Hi7d/view?usp=sharing" alt="aniket-chopade-3b7b6518b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniket-chopade-3b7b6518b/" target="blank"><img align="center"  src="https://www.flaticon.com/free-icon/linkedin_174857" alt="aniket-chopade-3b7b6518b" height="30" width="40" /></a>
 </p>
 
 
