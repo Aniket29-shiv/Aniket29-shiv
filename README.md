@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aniket-chopade-3b7b6518b/" target="blank"><img align="center"  src="iconfinder_square-linkedin_317725.svg" alt="aniket-chopade-3b7b6518b" height="30" width="40" /></a>
+<a href="https://twitter.com/aniket2971" target="blank"><img align="center"  src="iconfinder_Social-media_Twitter_4362955.svg" alt="aniket-chopade-3b7b6518b" height="30" width="40" /></a>
 </p>
 
 
