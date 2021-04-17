@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">|| CS Student | Entrepreneur | AR developer | Space Enthusiast ||</h3>
+<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">, I'm Aniket</h1>
+<h3 align="center">
+  
+  | CS Student | Entrepreneur | AR Developer | Space Enthusiast |
+  | --- | --- | --- | --- |
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aniket29-shiv&label=Profile%20views&color=0e75b6&style=flat" alt="Aniket29-shiv" /> </p>
 
@@ -14,7 +19,7 @@
 
 - 🤔 I’m looking for help with **AR development in Unity3d.**
 
-- 💬 Ask me about **Python, AR and C#.**
+- 💬 Ask me about **Python, AR (AR Foundation and ARCore) and C#.**
 
 - 📫 How to reach me : **aniketchopade2971@gmail.com**
 
