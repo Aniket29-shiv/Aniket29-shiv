@@ -38,4 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket29-shiv&show_icons=true&theme=radical&locale=en" alt="Aniket29-shiv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket29-shiv&" alt="Aniket29-shiv" /></p>
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"></p>
 
