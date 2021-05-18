@@ -33,7 +33,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket29-shiv&show_icons=true&theme=radical&locale=en&layout=compact" alt="Aniket29-shiv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket29-shiv&show_icons=true&theme=radical&locale=en&layout=compact" alt="Aniket29-shiv"  height="200" width="420"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket29-shiv&show_icons=true&theme=radical&locale=en" alt="Aniket29-shiv" /></p>
 
