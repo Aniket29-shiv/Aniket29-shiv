@@ -6,7 +6,7 @@
 <p align = "center">
 <h3 align="center">
   
-  | CS Student | Entrepreneur | AR Developer | Space Enthusiast |
+  | CS Grad | Entrepreneur | AR Developer | Space Enthusiast |
   | --- | --- | --- | --- |
 
 </h3>
@@ -17,7 +17,7 @@
 - 🔭 &nbsp; I’m currently working on **Full Stack Development**, **Android** and **AR** apps.
 - 👯 &nbsp; I’m looking to collaborate on **Android, Web Dev and C# projects.**
 - 🤔 &nbsp; I’m looking for help with **AR development in Unity3d.**
-- 💬 &nbsp; Ask me about **Python, AR (AR Foundation and ARCore) and C#.**
+- 💬 &nbsp; Ask me about **Python, AR (AR Foundation and ARCore) and Startups.**
 - ⚡ &nbsp; Interests: Exploring **Space related stuff**, **reading books** and **Entrepreneurship.**
 
 <br>
@@ -66,11 +66,11 @@
 
 <br/>
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniket29-shiv&show_icons=true&theme=radical&locale=en&layout=compact" alt="Aniket29-shiv"  height="200" width="420"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket29-shiv&show_icons=true&theme=radical&locale=en" alt="Aniket29-shiv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket29-shiv&show_icons=true&theme=radical&locale=en" alt="Aniket29-shiv" /></p> -->
 
 
 <!-- <h3 align="left">Connect with me:</h3>
